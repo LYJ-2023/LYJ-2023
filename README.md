@@ -21,8 +21,8 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
-dlduswl10515@gmail.com
+<img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white"> dlduswl10515@gmail.com
+
 <!--
 **LYJ-2023/LYJ-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
