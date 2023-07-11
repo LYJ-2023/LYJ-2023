@@ -5,7 +5,7 @@
   ### Hi there 👋
 안녕하세요, LYJ의 공간에 오신 것을 환영합니다.
 
-  #### 😄 <img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
+  #### <img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
 
   #### 😄 사용 언어: <img src="https://img.shields.io/badge/포토샵-beige??style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>, <img src="https://img.shields.io/badge/일러스트레이터-beige??style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>, <img src="https://img.shields.io/badge/블렌더-beige??style=for-the-badge&logo=Blender&logoColor=F5792A"/> <img src="https://img.shields.io/badge/HTML5-beige??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>, <img src="https://img.shields.io/badge/CSS3-beige??style=for-the-badge&logo=CSS3&logoColor=1572B6"/>, <img src="https://img.shields.io/badge/JS-beige??style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 
