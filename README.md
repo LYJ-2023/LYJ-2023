@@ -1,6 +1,6 @@
 <div align="center">-
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=GD%20home&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LYJ%20MAIN&fontSize=40&animation=fadeIn)
 
   ### Hi there 👋
 안녕하세요, LYJ의 공간에 오신 것을 환영합니다.
