@@ -6,12 +6,12 @@
 안녕하세요, LYJ의 공간에 오신 것을 환영합니다.
 
 <div style="display:flex;">
-  <img src="https://img.shields.io/badge/Gmail-#EA4335??style=for-the-badge&logo=Gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
   dlduswl10515@gmail.com
 </div>
 
 
-  #### 😄 사용 프로그램: <img src="https://img.shields.io/badge/Illustrator-#FF9A00??style=for-the-badge&logo=Illustrator&logoColor=white">
+  #### 😄 사용 프로그램: <img src="https://img.shields.io/badge/Illustrator-orenge??style=for-the-badge&logo=Illustrator&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ochor)
