@@ -18,7 +18,7 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=&fontSize=40&animation=fadeIn)
-<img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white"> dlduswl10515@gmail.com
+dlduswl10515@gmail.com
 </div>
 
 
