@@ -11,7 +11,7 @@
 </div>
 
 
-  #### 😄 사용 프로그램: <img src="https://img.shields.io/badge/adobeillustrator-#FF9A00??style=for-the-badge&logo=adobeillustrator&logoColor=white">
+#### 😄 사용 프로그램: <img src="https://img.shields.io/badge/adobeillustrator-orange??style=for-the-badge&logo=adobeillustrator&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ochor)
