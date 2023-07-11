@@ -5,7 +5,7 @@
   ### Hi there 👋
 안녕하세요, LYJ의 공간에 오신 것을 환영합니다.
 
-<div>
+<div style="display:flex;">
   <img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
   <p>dlduswl10515@gmail.com</p>
 </div>
