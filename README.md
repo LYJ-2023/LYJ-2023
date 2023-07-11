@@ -14,7 +14,7 @@
  #### 😄 사용 프로그램: <img src="https://img.shields.io/badge/figma-gray??style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/adobephotoshop-blue??style=for-the-badge&logo=adobephotoshop&logoColor=white">  <img src="https://img.shields.io/badge/adobeillustrator-orange??style=for-the-badge&logo=adobeillustrator&logoColor=white">  <img src="https://img.shields.io/badge/html5-coral??style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css3-skyblue??style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-yellow??style=for-the-badge&logo=javascript&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYJ-2023&layout=compact)](https://github.com/LYJ-2023/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ochor)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYJ-2023&show_icons=true&theme=radical)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=&fontSize=40&animation=fadeIn)
