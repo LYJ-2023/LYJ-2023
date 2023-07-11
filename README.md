@@ -5,13 +5,14 @@
   ### Hi there 👋
 안녕하세요, LYJ의 공간에 오신 것을 환영합니다.
 
-<div style="display:flex;">
-  <img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
-  dlduswl10515@gmail.com
-</div>
 
-사용 프로그램 
-<img src="https://img.shields.io/badge/figma-pink??style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/adobephotoshop-blue??style=for-the-badge&logo=adobephotoshop&logoColor=white">  <img src="https://img.shields.io/badge/adobeillustrator-orange??style=for-the-badge&logo=adobeillustrator&logoColor=white">  <img src="https://img.shields.io/badge/html5-coral??style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css3-skyblue??style=for-the-badge&logo=css3&logoColor=blue">  <img src="https://img.shields.io/badge/javascript-yellow??style=for-the-badge&logo=javascript&logoColor=white">
+  #### <img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
+  #### dlduswl10515@gmail.com
+
+
+
+ #### 사용 프로그램 
+ #### <img src="https://img.shields.io/badge/figma-pink??style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/adobephotoshop-blue??style=for-the-badge&logo=adobephotoshop&logoColor=white">  <img src="https://img.shields.io/badge/adobeillustrator-orange??style=for-the-badge&logo=adobeillustrator&logoColor=white">  <img src="https://img.shields.io/badge/html5-coral??style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css3-skyblue??style=for-the-badge&logo=css3&logoColor=blue">  <img src="https://img.shields.io/badge/javascript-yellow??style=for-the-badge&logo=javascript&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYJ-2023)](https://github.com/LYJ-2023/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYJ-2023)
