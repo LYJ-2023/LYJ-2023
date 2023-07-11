@@ -6,8 +6,7 @@
 안녕하세요, LYJ의 공간에 오신 것을 환영합니다.
 
 
-<img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
-dlduswl10515@gmail.com
+
 
 
 
@@ -22,6 +21,8 @@ dlduswl10515@gmail.com
 
 </div>
 
+<img src="https://img.shields.io/badge/Gmail-red??style=for-the-badge&logo=Gmail&logoColor=white">
+dlduswl10515@gmail.com
 <!--
 **LYJ-2023/LYJ-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
